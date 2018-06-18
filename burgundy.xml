@@ -1512,7 +1512,7 @@ Thanks to Ali Naderi for the basis file used as a template
 
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="fffdd0" bgColor="800020" fontStyle="0" />
 
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="fffdd0" bgColor="800020" fontStyle="0" />
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="800020" bgColor="800020" fontStyle="0" />
 
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="fffdd0" bgColor="800020" fontStyle="0" />
 
